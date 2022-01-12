@@ -9,13 +9,13 @@ The Teleportation Protocol suggest us:
 3. After measuring the Information to be transfered, we then measure the information that has been teleported with help of entanglement.
 4. We use Pauli X-Gate and Pauli Z-Gate to measure the destination output. Which gives us the teleported information for any state of superpostion of the entangled medium.
 
-#Input:
+# Input:
 
 <img width="174" alt="Screenshot 2022-01-10 at 11 35 10 AM" src="https://user-images.githubusercontent.com/69144860/148724174-90583b82-874d-4487-9cd7-33746faa2229.png">
 
 Here we have taken input q0 = |1>
 
-#Output:
+# Output:
 
 <img width="495" alt="Screenshot 2022-01-10 at 11 33 44 AM" src="https://user-images.githubusercontent.com/69144860/148724105-52bced07-e93b-4f3b-9a4b-816671c865b4.png">
 
